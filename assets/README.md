@@ -8,7 +8,7 @@ Este projeto surgiu da necessidade de preparar cartas para um projeto escolar, a
 
 ## 📸 Interface
 
-> Em breve será adicionada uma imagem da interface do aplicativo.
+![Interface do aplicativo](assets/interface.png)
 
 ---
 
