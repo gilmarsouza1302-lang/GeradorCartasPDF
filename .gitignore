@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# PDFs gerados
+output/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do Windows
+Thumbs.db
+
+# Arquivos do macOS
+.DS_Store
